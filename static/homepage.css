@@ -1,0 +1,13 @@
+body {
+    background: black;
+    color: white;
+    font: normal 15pt Arial;
+}
+
+div.main {
+    text-align: center;
+}
+
+div.rotes {
+    text-align: center;
+}
